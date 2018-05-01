@@ -1,5 +1,5 @@
 html {
-  font-family: Helvetica;
+  font-family: "Source Sans Pro";
   color: #333333;
 }
 
@@ -26,7 +26,6 @@ p {
 
 #gray {
   color: gray;
-  font-weight: normal;
 }
 
 
@@ -86,29 +85,6 @@ a:link {
   font-size: 20px;
 }
 
-/* Information - Big Box */
-
-.info {
-  background-color: #f2f2f2;
-  margin: 0 auto;
-  padding: 10px;
-}
-
-.stuff {
-  display: flex;
-  margin: 24px;
-  padding: 32px;
-}
-
-.text2 {
-  width: 60%;
-}
-
-.main img {
-  width: 60%;
-}
-
-/* Information - Smaller Boxes */
 
 
 
